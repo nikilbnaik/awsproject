@@ -8,14 +8,16 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>springwebex</artifactId>
+	<artifactId>springproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springwebex</name>
+	<name>springproject</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+	
+	<packaging>war</packaging>
 
 	<dependencies>
 		
