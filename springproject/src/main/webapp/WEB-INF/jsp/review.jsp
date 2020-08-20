@@ -31,7 +31,7 @@
 			<ul>
 				<li><a href="./welcome" accesskey="1" title="">Homepage</a></li>
 				<li><a href="./profile" accesskey="2" title="">My Account</a></li>
-				<li><a href="./#" accesskey="3" title="">Reviews</a></li>
+				<li><a href="#" accesskey="3" title="">Reviews</a></li>
 				<li><a href="./dashboard" accesskey="4" title="">Dashboard</a></li>
 				<li><a href="./login" accesskey="5" title="">Logout</a></li>
 			</ul>

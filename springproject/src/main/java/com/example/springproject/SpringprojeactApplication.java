@@ -7,16 +7,15 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 @SpringBootApplication
 public class SpringprojeactApplication extends SpringBootServletInitializer {
-	
-	@Override
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(SpringprojeactApplication.class);
-	}
 
 	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringprojeactApplication.class, args);
 		System.out.println("Application Running");
 	}
-
+	
+	@Override
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		return application.sources(SpringprojeactApplication.class);
+	}
 }

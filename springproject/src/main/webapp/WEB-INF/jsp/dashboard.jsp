@@ -65,7 +65,7 @@
 								</div>
 								<p><b>Dell Alienware Area-51M </b></br>Nvidia Graphics, 1TB + 512GB  									SSD, 4GB RAM, 1.10 GHz Intel Gemini Lake Celeron N4000 Processor.</p>
 							</div>
-							<a href="./ReviewDashboard1" class="button">More Details</a>
+							<a href="./ReviewDashboard1" class="button">View Reviews</a>
 						</div>
 						</td>
 						<td>
@@ -81,7 +81,7 @@
 								</div>
 								<p><b>Lenovo IdeaPad 81H30053IN </b></br>Intel UHD Graphics, 64GB internal 									Storage, 16GB RAM, i7-9700K 9th Gen Processor.</p>
 							</div>
-							<a href="./ReviewDashboard2" class="button">More Details</a>
+							<a href="./ReviewDashboard2" class="button">View Reviews</a>
 						</div>
 						</td>
 						<td>
@@ -97,7 +97,7 @@
 								</div>
 								<p><b>Acer A315-21 </b></br>AMD Graphics, 1TB Hard 									Drive, 4GB RAM, AMD A-Series Dual-Core A4-9120 Processor.</p>
 							</div>
-							<a href="./ReviewDashboard3" class="button">More Details</a>
+							<a href="./ReviewDashboard3" class="button">View Reviews</a>
 						</div>
 						</td>
 						</tr>
@@ -117,7 +117,7 @@
 								</div>
 							<p><b>Lenovo Yoga C640 </b></br>Intel Graphics, 512GB Hard 									Drive, 8GB RAM, 1.6 GHz Intel Core i5-10210U 10th Gen Processor.</p>
 						</div>
-						<a href="./ReviewDashboard4" class="button">More Details</a>
+						<a href="./ReviewDashboard4" class="button">View Reviews</a>
 					</div>
 					</td>
 					<td>
@@ -133,7 +133,7 @@
 								</div>
 							<p><b>Dell Alienware M15 </b></br>Nvidia Graphics, 512GB Hard 									Drive, 8GB RAM, 4.5 GHz Hexa-core Intel Core i7-9750H 9th Gen Processor.</p>
 						</div>
-						<a href="./ReviewDashboard5" class="button">More Details</a>
+						<a href="./ReviewDashboard5" class="button">View Reviews</a>
 					</div>
 					</td>
 					<td>
@@ -149,7 +149,7 @@
 								</div>
 								<p><b>Apple MacBook Pro </b></br>AMD Graphics, 512GB Hard 									Drive, 16GB RAM, Core i7-9th Gen Processor.</p>
 							</div>
-							<a href="./ReviewDashboard6" class="button">More Details</a>
+							<a href="./ReviewDashboard6" class="button">View Reviews</a>
 						</div>
 						</td>
 					</tr>
@@ -169,7 +169,7 @@
 								</div>
 							<p><b>Dell Inspiron 5570 </b></br>AMD Graphics, 2TB Hard 									Drive, 8GB RAM, 3.4 GHz 8th Gen Intel Core i5-8250U Processor.</p>
 						</div>
-						<a href="./ReviewDashboard7" class="button">More Details</a>
+						<a href="./ReviewDashboard7" class="button">View Reviews</a>
 					</div>
 					</td>
 					<td>
@@ -185,7 +185,7 @@
 							</div>
 							<p><b>Lenovo Ideapad 81EV00BLIN </b></br>Nvidia Graphics, 2TB Hard 									Drive, 8GB RAM,  3.4 GHz 8th Gen Intel Core i5-8250U Processor.</p>
 						</div>
-						<a href="./ReviewDashboard8" class="button">More Details</a>
+						<a href="./ReviewDashboard8" class="button">View Reviews</a>
 					</div>
 					</td>
 					<td>
@@ -201,7 +201,7 @@
 							</div>	
 								<p><b>HP 13-ap0121tu </b></br>Intel Graphics, 256GB Hard 									Drive, 8GB RAM, 1.6 GHz 8th Generation Intel Core i5-8265U.</p>
 							</div>
-							<a href="./ReviewDashboard9" class="button">More Details</a>
+							<a href="./ReviewDashboard9" class="button">View Reviews</a>
 						</div>
 						</td>
 					</tr>
